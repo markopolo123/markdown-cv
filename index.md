@@ -23,7 +23,7 @@ Principal Platform Engineer @ StatsBomb with experience across HPC and Cloud Com
 * Extensive experience with config management tooling: Ansible, AWX & pyinfra
 * Extensive experience with the Hashicorp suite of tools
 * Experience supporting a wide array of usecases on scientific compute infrastructure
-* Extensive experience with SLURM, Nomad and Openstack
+* Extensive experience with SLURM, K8S, Nomad and Nova Openstack
 
 ## Occupation
 
