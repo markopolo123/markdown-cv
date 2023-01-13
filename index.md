@@ -13,7 +13,7 @@ Principal Platforn Engineer @ StatsBomb
 | <a href="https://github.com/markopolo123">https://github.com/markopolo123</a>
 </div>
 
-### About
+## About
 
 Principal Platform Engineer @ StatsBomb with experience across HPC and Cloud Computing. Results driven, with a focus on Agile and DevOps culture transformation.
 
@@ -25,13 +25,15 @@ __Principal Platforn Engineer @ StatsBomb__, Remote
 
 Leading a team of four platform engineers and supporting a vision to build world class sports data company.
 
-*highlights*
+*Highlights*
 
 * Evolving from a DevOps team to a platform engineering team.
 * Optimising our platforms, working in a cross functional team on moving from json/b64 to GRPC for data transfer on our AI clusters
-* Worked to recreate and evolve the company's engineering management culture.
+* Worked to recreate and evolve the company's engineering management culture
+* Cost and performance optimisation across our cloud platforms
+* Building a self service capability for our developers and engineers
 
-Technologies: ArgoCD, Argo Workflows, GitHub Actions, Python, Kubernetes, Knative, Kserve, AWS, GCP, Terraform, Okta
+Technologies: ArgoCD, Argo Workflows, GitHub Actions, Python, Kubernetes, Knative, Kserve, AWS, GCP, Terraform, Atlantis, Okta & Auth0
 
  `2020-10-05 - 2022-06-20`
 
@@ -52,13 +54,14 @@ Working on AstraZeneca's Scientific Compute Platform. Designing and building out
 __Research Computing Specialist @ Research Computing Services__, Cambridge University
 
 *Highlights*
+
 * Lead engineer for the ISO27001 certified Secure Research Computing Platform (SRCP).
 * Designed and implemented pipelines to support COVID 19 diagnostic modelling
-* Implemented `SSO` across the SRCP, which was also rolled out across our wider SLURM environments
+* Implemented SSO across the SRCP, which was also rolled out across our wider SLURM environments
 * Delivered and supported the SRCP using IAC, TDD and End to End testing, CI/CD, Agile and DevOps methodologies
 * Worked to bring our main SLURM/Infiniband clusters into Openstack, developed pipelines and management processes using Cloud Native tooling and Agile/SCRUM
 
-Tooling used - Terraform, Ansible, Gitlab, Consul, Python, Packer, Keycloak, testinfra
+Tooling used - Terraform, Ansible, Gitlab, Consul, Python, Packer, Keycloak, TestInfra
 
  `2017-02-01 – 2018-10-01`
 
@@ -83,7 +86,7 @@ Managed the IT Support Team and IT estate for 1750 users.
 *Highlights*
 
 * Designed and replaced the whole Network mostly in house - Fibres through to a new Windows Domain running on Hyper-V with CSV storage
-* Xen Hypervisors and HP SAN migration to Hyper-V and REFS.
+* Xen Hypervisors and HP SAN migration to Hyper-V and REFS
 * Migrated 1500 users from On Premise Exchange to Office365
 * Built a new Windows Domain and migrated estate onto it
 * Automated image build process for Windows using MDT, Chocolately and Powershell
