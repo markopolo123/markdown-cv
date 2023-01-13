@@ -17,11 +17,18 @@ Principal Platforn Engineer @ StatsBomb
 
 Principal Platform Engineer @ StatsBomb with experience across HPC and Cloud Computing. Results driven, with a focus on Agile and DevOps culture transformation.
 
+## Experience
+
+* Amazon AWS (EC2, S3, Route53, VPC, IAM, ECS, EKS, AWS CLI, Python boto/boto3 SDK) and Openstack
+* Extensive experience with config management tooling: Ansible, AWX & pyinfra
+* Extensive experience with the Hashicorp suite of tools
+* Experienced supporting a wide array of usecases on scientific compute infrastructure
+
 ## Occupation
 
  `2022-06-20 - Present Day`
 
-__Principal Platforn Engineer @ StatsBomb__, Remote
+__Principal Platform Engineer @ StatsBomb__, Remote
 
 Leading a team of four platform engineers and supporting a vision to build world class sports data company.
 
@@ -39,7 +46,7 @@ Technologies: ArgoCD, Argo Workflows, GitHub Actions, Python, Kubernetes, Knativ
 
 __Tech Lead @ AstraZeneca__, Cambridge
 
-Working on AstraZeneca's Scientific Compute Platform. Designing and building out a global HPC infrastructure spanning multiple private clouds, using Cloud Native methodologies and tooling
+Working on AstraZeneca's Scientific Compute Platform. Designing and building out a global HPC infrastructure spanning multiple private clouds, using Cloud Native methodologies and tooling.
 
 *Highlights*
 
@@ -56,12 +63,13 @@ __Research Computing Specialist @ Research Computing Services__, Cambridge Unive
 *Highlights*
 
 * Lead engineer for the ISO27001 certified Secure Research Computing Platform (SRCP).
-* Designed and implemented pipelines to support COVID 19 diagnostic modelling
 * Implemented SSO across the SRCP, which was also rolled out across our wider SLURM environments
 * Delivered and supported the SRCP using IAC, TDD and End to End testing, CI/CD, Agile and DevOps methodologies
+* Designed and implemented pipelines to support COVID 19 diagnostic modelling
 * Worked to bring our main SLURM/Infiniband clusters into Openstack, developed pipelines and management processes using Cloud Native tooling and Agile/SCRUM
+* Implemented self service capabilities and automation for team members and customers.
 
-Tooling used - Terraform, Ansible, Gitlab, Consul, Python, Packer, Keycloak, TestInfra
+Tooling used - Terraform, Ansible, Gitlab, Rundeck, Consul, Python, Packer, Keycloak, TestInfra, Ceph
 
  `2017-02-01 – 2018-10-01`
 
