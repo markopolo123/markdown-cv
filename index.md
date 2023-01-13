@@ -113,11 +113,11 @@ __The University of Hertfordshire__
 
 ### Interests
 
-Endurance sports events
-Current Affairs
-Technology
-Self Hosting
-Open Source
+* Endurance sports events
+* Current Affairs
+* Technology
+* Self Hosting
+* Open Source
 
 <!-- ### Footer
 
