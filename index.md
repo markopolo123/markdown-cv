@@ -22,7 +22,8 @@ Principal Platform Engineer @ StatsBomb with experience across HPC and Cloud Com
 * Amazon AWS (EC2, S3, Route53, VPC, IAM, ECS, EKS, AWS CLI, Python boto/boto3 SDK) and Openstack
 * Extensive experience with config management tooling: Ansible, AWX & pyinfra
 * Extensive experience with the Hashicorp suite of tools
-* Experienced supporting a wide array of usecases on scientific compute infrastructure
+* Experience supporting a wide array of usecases on scientific compute infrastructure
+* Extensive experience with SLURM, Nomad and Openstack
 
 ## Occupation
 
@@ -46,7 +47,7 @@ Technologies: ArgoCD, Argo Workflows, GitHub Actions, Python, Kubernetes, Knativ
 
 __Tech Lead @ AstraZeneca__, Cambridge
 
-Working on AstraZeneca's Scientific Compute Platform. Designing and building out a global HPC infrastructure spanning multiple private clouds, using Cloud Native methodologies and tooling.
+Worked on AstraZeneca's Scientific Compute Platform. Designing and building out a global HPC infrastructure spanning multiple private clouds, using Cloud Native methodologies and tooling.
 
 *Highlights*
 
@@ -62,9 +63,10 @@ __Research Computing Specialist @ Research Computing Services__, Cambridge Unive
 
 *Highlights*
 
-* Lead engineer for the ISO27001 certified Secure Research Computing Platform (SRCP).
+* Lead engineer for the ISO27001 certified Secure Research Computing Platform (SRCP)
 * Implemented SSO across the SRCP, which was also rolled out across our wider SLURM environments
 * Delivered and supported the SRCP using IAC, TDD and End to End testing, CI/CD, Agile and DevOps methodologies
+* Developed a POC with autoscaling SLURM clusters in the SRCP
 * Designed and implemented pipelines to support COVID 19 diagnostic modelling
 * Worked to bring our main SLURM/Infiniband clusters into Openstack, developed pipelines and management processes using Cloud Native tooling and Agile/SCRUM
 * Implemented self service capabilities and automation for team members and customers.
