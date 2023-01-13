@@ -8,7 +8,7 @@ title: Mark Sharpley's CV
 Principal Platforn Engineer @ StatsBomb
 
 <div id="webaddress">
-<a href="mark@applesmarksharpley.co.uk">mark@applesmarksharpley.co.uk</a>
+<a href="mark@marksharpley.co.uk">mark@marksharpley.co.uk</a>
 | <a href="https://marksharpley.co.uk">https://marksharpley.co.uk</a>
 | <a href="https://github.com/markopolo123">https://github.com/markopolo123</a>
 </div>
